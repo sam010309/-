@@ -1,0 +1,3 @@
+digraph G{bgcolor=white; nodesep=0.3; ranksep=0.5;
+node[fontname="DejaVu Sans" fontsize=14 color="#333333" style=filled fillcolor="white"]; edge[color="#333333"];
+s[label="Начало" shape=box style="rounded,filled"]; p[label="Установить балл = 0" shape=box]; e[label="Конец" shape=box style="rounded,filled"]; s->p->e}
